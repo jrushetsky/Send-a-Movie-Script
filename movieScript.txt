@@ -1,3 +1,4 @@
+$./autoMsg.sh
 Lorax: Hello, everybody. Thanks for coming. (reads the note) I am the Lorax. I speak for the trees. And I'd like to say a few words, if you please. Regarding the story that you're about to see. It actually happened. Just take it from me. But there's more to this story than what's on the page, so please pay attention while I set the stage.
 
 (Curtain opens to Thneedville.)

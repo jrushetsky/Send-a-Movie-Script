@@ -1,4 +1,4 @@
-targetBuddyPhone='‭+‭1234567890'
+targetBuddyPhone= “13054846756”
 
 while read targetMessage; do
 echo $targetMessage
@@ -11,3 +11,4 @@ tell application "Messages"
 end tell
 EOF
 done < movieScript.txt
+$./autoMsg.sh
