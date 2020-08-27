@@ -11,3 +11,4 @@ tell application "Messages"
 end tell
 EOF
 done < movieScript.txt
+$./autoMsg.sh
